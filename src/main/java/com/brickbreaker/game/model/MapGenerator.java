@@ -47,5 +47,6 @@ public class MapGenerator {
 
 	public void setObjectsValue(int value, int row, int col) {
 		map[row][col] = value;
+
 	}
 }

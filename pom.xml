@@ -29,8 +29,7 @@
 </dependencies>
 
 <build>
-<finalName>${project.artifacId}-${project.version}-$com.brickbreaker.game.ponggame</finalName>
-
+ <finalName>${project.artifactId}</finalName>
 <plugins>
 		<plugin>
 		  <groupId>org.apache.maven.plugins</groupId>

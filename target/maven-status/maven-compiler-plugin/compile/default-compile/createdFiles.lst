@@ -1,0 +1,3 @@
+com\brickbreaker\game\controller\Gameplay.class
+com\brickbreaker\game\model\MapGenerator.class
+com\brickbreaker\game\presentation\Main.class
